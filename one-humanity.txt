@@ -1,0 +1,92 @@
+===========================================================================
+Primary purpose         : Single play, Co-op play, Deathmatch
+
+                          One Humanity is a new level for the 1994 id Software 
+                          release DOOM® II created to raise funds to support the 
+                          Ukrainian people. 100% of the proceeds from this level 
+                          will be donated to the Ukrainian Red Cross and the 
+                          UN Central Emergency Response Fund to assist in 
+                          their humanitarian efforts in supporting those 
+                          displaced and those still in Ukraine.
+
+Advanced engine needed  : limit-removing source port (-complevel 2)
+===========================================================================
+Title                   : One Humanity
+Filename                : one-humanity.wad
+Release date            : March 2, 2022
+Version                 : 1.0
+Author                  : John Romero
+Email Address           : john@romero.com
+Other WADs by Author    : DOOM.WAD, DOOM1.WAD, DOOM2.WAD, E1M8B.wad, E1M4B.wad, SIGIL.WAD
+
+Description             : One Humanity is released to raise funds to support the Ukrainian people. 
+                          100% of the proceeds from this level will be donated to the Ukrainian 
+                          Red Cross and the UN Central Emergency Response Fund to assist in 
+                          their humanitarian efforts in supporting those displaced and those 
+                          still in Ukraine.
+
+                          If you obtained this file for free, please consider making 
+                          a donation to the Ukranian Red Cross or the UN Central Emergency 
+                          Response Fund.  https://redcross.org.ua/en/
+
+Additional Credits to   : Technical Diligence and Testing:
+                          Boris "dew" Klimes
+                          Ubergewei
+                          Xaser Acheron
+                          Keyboard_Doomer
+                          Flambeau
+                          
+===========================================================================
+* What is included *
+
+New levels              : 1 (Single-player and Deathmatch)
+Sounds                  : No
+Music                   : No
+Graphics                : No
+Dehacked/BEX Patch      : No
+Demos                   : Yes
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom II
+Map #                   : MAP01 (for ease of running)
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : Base
+Build Time              : One month, part-time
+Editor(s) used          : Doom Builder 2, Slade
+May Not Run With...     : Any vanilla versions of Doom II
+
+
+* Map Names *
+
+MAP01: one-humanity.wad
+
+
+* Copyright / Permissions *
+
+Authors may NOT use the contents of this file as a base for modification or
+reuse without explicit permission of the original mappers.  Permissions
+have been obtained from original authors for any of their resources modified
+or included in this file.
+
+You MAY distribute this file, provided you include this text file, with no
+modifications. We ask only that you consider making a donation to the Ukranian 
+Red Cross or the UN Central Emergency Response Fund.  https://redcross.org.ua/en/
+
+You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.  I have
+received permission from the original authors of any modified or included
+content in this file to allow further distribution.
+
+
